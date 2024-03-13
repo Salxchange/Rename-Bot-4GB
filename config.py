@@ -14,7 +14,7 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://ROKU:ROKU@cluster0.nxjre0s.mong
 DB_NAME = os.environ.get("DB_NAME", "rokubotz")
 
 STRING = os.environ.get("STRING", "")
-BOT_PIC = os.environ.get("BOT_PIC", "")
+BOT_PIC = os.environ.get("BOT_PIC", "https://telegra.ph/file/58bd2cfb1ab6bc2e52360.jpg")
 
 
 
