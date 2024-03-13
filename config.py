@@ -8,7 +8,7 @@ OWNER = int(os.environ.get("OWNER", "1966867320"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "Free4GbFileRenameBot")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "Rokubotz")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002093365834"))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002046934698"))
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://ROKU:ROKU@cluster0.nxjre0s.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "rokubotz")
