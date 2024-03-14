@@ -6,23 +6,16 @@ async def upgrade(bot,update):
 	text = """**Free Plan User**
 	Daily  Upload limit 2GBGB
 	Price 0
-	
+ 
 	**🪙 Basic** 
 	Daily  Upload  limit 20GB
 	
-	
 	**⚡ Standard**
 	Daily Upload limit 50GB
-
 	
 	**💎 Pro**
 	Daily Upload limit 100GB
-	
-	
-	Pay Using Upi I'd `madflixofficial@axl`
-	
-	After Payment Send Screenshots Of 
-        Payment To Admin @calladminrobot"""
+	"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("",url = "https://t.me/calladminrobot")], 
         			[InlineKeyboardButton("",url = "https://telegra.ph/file/7f959437f9375b313ed1c.jpg"),
@@ -38,19 +31,13 @@ async def upgradecm(bot,message):
 	
 	**🪙 Basic** 
 	Daily  Upload  limit 20GB
- 
 	
 	**⚡ Standard**
 	Daily Upload limit 50GB
 
-	
 	**💎 Pro**
 	Daily Upload limit 100GB
-	
-	
-	
-	After Payment Send Screenshots Of 
-        Payment To Admin @calladminrobot"""
+	"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("",url = "https://t.me/calladminrobot")], 
         			[InlineKeyboardButton("",url = "https://telegra.ph/file/7f959437f9375b313ed1c.jpg"),
